@@ -11,3 +11,7 @@ The HC-SR04 ultrasonic sensor can work with only 3 pins if you wire Echo and Tri
 ![](https://github.com/Alexunder98/4x4-ultrasonic-sensor-array-ROS/blob/main/Images/Front.png?raw=true)
 ![](https://github.com/Alexunder98/4x4-ultrasonic-sensor-array-ROS/blob/main/Images/Back.png?raw=true)
 
+**Wiring diagram:**<br/>
+![](https://github.com/Alexunder98/4x4-ultrasonic-sensor-array-ROS/blob/main/Images/wiring_diagram.png?raw=true)
+
+
